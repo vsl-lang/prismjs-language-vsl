@@ -1,0 +1,23 @@
+{
+  "name": "prismjs-language-vsl",
+  "version": "1.0.0",
+  "description": "VSL syntax highlighting with Prism.js",
+  "main": "prismjs-language-vsl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsl-lang/prismjs-language-vsl.git"
+  },
+  "keywords": [
+    "prismjs",
+    "vsl"
+  ],
+  "author": "Vihan <vihan+vsl@vihan.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vsl-lang/prismjs-language-vsl/issues"
+  },
+  "homepage": "https://github.com/vsl-lang/prismjs-language-vsl#readme"
+}
